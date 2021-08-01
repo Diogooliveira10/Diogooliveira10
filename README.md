@@ -25,6 +25,7 @@
   <img align="center" alt="Diogo-Node.js" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
   
+   ![Snake animation](https://github.com/Diogooliveira10/Diogooliveira10/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
