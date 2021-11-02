@@ -9,7 +9,8 @@
   
  ##
  
-- 🌱 Estudando JavaScript, React.js, HTML, CSS, Node.js
+- 🌱 I’m currently learning JavaScript, HTML, CSS, React.js, Node.js, SQL.
+  
 
  <div>
   <a href="https://github.com/Diogooliveira10">
