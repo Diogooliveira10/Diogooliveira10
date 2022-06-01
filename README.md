@@ -1,4 +1,4 @@
-## 👋 Hello World
+## 👋 Hello World!
 
 <div>
   <a href="mailto:ddiogooliveira9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,8 +9,9 @@
   
  ##
  
-- 🌱 I’m currently learning JavaScript, HTML, CSS, React.js, Node.js, SQL.
-  
+- 🌱 I’m currently learning JavaScript, ReactJS, React Native, NodeJS and Typescript.
+- 😍 I'm passionate about technologies, teaching and seeking new challenges!
+- 🚀 #NeverStopLearning
 
  <div>
   <a href="https://github.com/Diogooliveira10">
