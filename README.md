@@ -1,4 +1,4 @@
-## 👋 Hello World!
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diogo Oliveira</h1>
 
 <div>
   <a href="mailto:ddiogooliveira9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
