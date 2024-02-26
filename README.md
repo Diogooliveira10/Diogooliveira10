@@ -9,7 +9,7 @@
   
  ##
  
-- 🌱 I’m currently learning JavaScript, ReactJS, React Native, NodeJS and Typescript.
+- 🌱 I’m currently learning Python, Flask.
 - 😍 I'm passionate about technologies, teaching and seeking new challenges!
 - 🚀 #NeverStopLearning
 
