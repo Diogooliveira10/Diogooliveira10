@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Software developer</h1>
 
 # 💫 About Me:
-🔭 I'm currently working on a Sentinel project<br>🌱 I'm currently learning OpenTelemetry, Grafana, Kubernetes and AI.<br>😍 I'm passionate about technology, teaching and looking for new challenges!<br>🚀 #NeverStopLearning
+🔭 I'm currently working on a Sentinel project<br>🌱 I'm currently learning OpenTelemetry, Grafana, Kubernetes, Java and AI.<br>😍 I'm passionate about technology, teaching and looking for new challenges!<br>🚀 #NeverStopLearning
 
 
 ## 🌐 Socials:
