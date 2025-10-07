@@ -4,14 +4,14 @@
 
   <samp>
       <br>
-      Hi there! I'm <b>Diogo Oliveira.</b>
+      Hello, world! I'm <b>Diogo Oliveira.</b>
   </samp>
 </div>
 
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=200&pause=1000&color=A020F0&width=435&lines=Ol%C3%A1!+Sou+desenvolvedor+de+software.;Hello!+I'm+a+software+developer.;Hola!+Soy+desarrollador+de+software." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+desenvolvedor+de+software.;Hello!+I'm+a+software+developer.;Hola!+Soy+desarrollador+de+software." alt="Typing SVG"/>
 </div>
 
 <div align="center">
